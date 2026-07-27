@@ -151,15 +151,15 @@ The generated study plan is displayed on the Assignment Details page and is save
 
 ## 🏠 Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/landing-page.jpeg)
 
 ## 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ## ➕ Add Assignment
 
-![Add Assignment](screenshots/add-assignment.png)
+![Add Assignment](screenshots/assignments.jpeg)
 
 ---
 
